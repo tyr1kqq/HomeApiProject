@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 namespace HomeApi.Data.Repos
 {
     /// <summary>
-    /// Репозиторий для операций с объектами типа "Device" в базе
+    /// Репозиторий для операций с объектами типа "Device" в базеf
     /// </summary>
     public class DeviceRepository : IDeviceRepository
     {
